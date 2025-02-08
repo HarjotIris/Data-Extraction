@@ -12,8 +12,8 @@ This project scrapes Amazon product listings for iPhones using ScraperAPI and Be
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/amazon-iphone-scraper.git
-   cd amazon-iphone-scraper
+   git clone https://github.com/HarjotIris/Scraping Amazon products ( Iphone , excluding sponsored products).git
+   cd Scraping Amazon products ( Iphone , excluding sponsored products)
    ```
 2. **Install dependencies**
    ```bash
@@ -28,15 +28,15 @@ This project scrapes Amazon product listings for iPhones using ScraperAPI and Be
 
 2. **Run the script**
    ```bash
-   python scrape_amazon.py
+   python ecom scraper.py
    ```
 
 3. **Expected Output**
-   The script prints the extracted iPhone names from the Amazon page:
+   The script prints the extracted iPhone names along with their corresponding prices from the Amazon page:
    ```
-   Apple iPhone 15 (128 GB) - Black
-   Apple iPhone 14 Pro (256 GB) - Silver
-   Apple iPhone 13 Mini (512 GB) - Blue
+   Apple iPhone 15 (128 GB) - Black - 60,999
+   Apple iPhone 14 Pro (256 GB) - Silver - 54,900
+   Apple iPhone 13 Mini (512 GB) - Blue - 43,499
    ...
    ```
 
