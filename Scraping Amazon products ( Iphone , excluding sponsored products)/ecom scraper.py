@@ -4,7 +4,7 @@ import pandas as pd
 
 data = {'Title': [], 'Price': []}
 
-payload = {'api_key': '397a4c2c951cdb70873ad43ee651270c', 'url':'https://www.amazon.in/s?k=iphone&crid=OKWUIIVXRU2D&sprefix=iphon%2Caps%2C276&ref=nb_sb_noss_2' }
+payload = {'api_key': 'Your API Key', 'url':'https://www.amazon.in/s?k=iphone&crid=OKWUIIVXRU2D&sprefix=iphon%2Caps%2C276&ref=nb_sb_noss_2' }
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
