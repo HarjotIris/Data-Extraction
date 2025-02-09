@@ -12,7 +12,7 @@ This repository contains various projects focused on web scraping, data extracti
 ### 2. **BBC Headlines Scraper**
 - Scrapes the latest headlines from BBC News.
 - Uses BeautifulSoup and requests.
-- Saves extracted headlines in a structured format.
+- Saves extracted headlines and their available descriptions in a structured format.
 
 
 ## Installation
