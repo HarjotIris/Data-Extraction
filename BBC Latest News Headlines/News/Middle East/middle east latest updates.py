@@ -37,6 +37,6 @@ for article in articles:
     data["Description"].append(description)
 
 df = pd.DataFrame.from_dict(data)
-save_path = save_path = r"C:\Desktop\Data Extraction\BBC News Headlines\News\Middle East\Middle East latest updates.xlsx"
+save_path = save_path = r"C:\Desktop\Data Extraction\BBC Latest News Headlines\News\Middle East\Middle East latest updates.xlsx"
 
 df.to_excel(save_path, index=False)
