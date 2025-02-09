@@ -8,6 +8,11 @@ This repository contains various projects focused on web scraping, data extracti
 - Scrapes product listings from Amazon.
 - Uses ScraperAPI to bypass bot detection.
 - Extracts product names, prices, and links.
+  
+### 2. **BBC Headlines Scraper**
+- Scrapes the latest headlines from BBC News.
+- Uses BeautifulSoup and requests.
+- Saves extracted headlines in a structured format.
 
 
 ## Installation
